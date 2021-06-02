@@ -1,0 +1,81 @@
+.top{
+    background-color: white;
+    height: 40%;
+    width: 90%;
+    border: solid 2px black;
+    margin: auto;
+    margin-top: 15px;
+    padding-left: 5px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    
+}
+
+.leftShape{
+    background-color:rgb(112, 0, 112);
+    height: 95px;
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 45px;
+    min-height: 80px;
+}
+
+.middleShape{
+    background-color: rgb(6, 175, 34);
+    height: 140px;
+    width: 300px;
+    margin-left: 65px;
+
+}
+
+.circleShape{
+    background-color: rgb(86, 194, 245);
+    height: 140px;
+    width: 140px;
+    margin-left: 85px;
+    border-radius:100%;
+}
+
+.center{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 90%;
+    border: dotted 5px black;
+    margin-left: 100px;
+    min-height: 250px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+
+.rectangle{
+    background-color: rgb(230, 233, 184);
+    height: 85%;
+    width: 95%;
+    margin-left: 100px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    box-shadow: 6px 6px 2px ;
+}
+
+.bottom{
+    background-color: white;
+    height: 300px;
+    width: 55%;
+    border: solid 1px rgb(202, 202, 202);
+    box-shadow: 2px 2px 1px;
+    margin: auto;
+    margin-top: 35px;
+    
+    
+}
+
+/* .helloFriendsText{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border: solid 2px black;
+    margin-left: 100px;
+    min-height: 250px;
+} */
